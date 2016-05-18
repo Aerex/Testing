@@ -1,0 +1,11 @@
+{
+	"action" : {
+		"type": "url",
+		"text" : "this is a sample action text",
+		"link": "www.google.com",
+		"description" : "this is alt text"
+	},
+	"video" : "httasfsadp://www.myfico.com/Images/sample_overlay.gif",
+	"image" : "http://www.myfico.com/Images/sample_overlay.gif",
+	"time" : "5min"
+}

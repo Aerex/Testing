@@ -5,7 +5,7 @@
 		"link": "www.google.com",
 		"description" : "this is alt text"
 	},
-	"video" : "httasfsadp://www.myfico.com/Images/sample_overlay.gif",
+	"video" : "http://www.myfico.com/Images/sample_overlay.gif",
 	"image" : "http://www.myfico.com/Images/sample_overlay.gif",
 	"time" : "5min"
 }
